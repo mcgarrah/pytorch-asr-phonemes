@@ -19,7 +19,7 @@ venv/
 ENV/
 
 # Sample data
-sample_data/
+#sample_data/
 
 # PyTorch model files
 *.pt
